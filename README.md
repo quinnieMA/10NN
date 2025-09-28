@@ -10,5 +10,3 @@ A flexible Python library for calculating 10-Nearest Neighbors similarity scores
 - **Flexible Output**: Multiple output formats for different analyses
 - **Extensible**: Easy to integrate with various downstream applications
 
-## Installation
-
