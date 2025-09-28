@@ -12,5 +12,3 @@ A flexible Python library for calculating 10-Nearest Neighbors similarity scores
 
 ## Installation
 
-```bash
-pip install similarity10nn
